@@ -1,0 +1,9 @@
+// Uncomment to test new version of Gradle plugin
+// pluginManagement {
+//   repositories {
+//       maven {
+//         url '../consuming/maven-repo'
+//       }
+//       gradlePluginPortal()
+//   }
+// }
